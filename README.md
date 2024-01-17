@@ -1,6 +1,6 @@
 # Finger Recognition Web App
 
-![Finger Recognition Web App Demo](url_to_demo_gif)
+![Finger Recognition Web App Demo](https://tanmaydhobale.github.io/Finger-Recognition/)
 
 ## Introduction
 
@@ -11,7 +11,7 @@ Welcome to the Finger Recognition Web App! This project enables users to interac
 - Finger detection and recognition.
 
 ## Demo
-[Live Demo](url_to_live_demo)
+[Live Demo](https://tanmaydhobale.github.io/Finger-Recognition/)
 
 
 ## Installation
