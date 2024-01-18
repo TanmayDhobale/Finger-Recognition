@@ -18,4 +18,4 @@ Check out the [Live Demo](https://tanmaydhobale.github.io/Finger-Recognition/) t
 1. Clone the repository:
 
    ```bash
-2. start server 
+
