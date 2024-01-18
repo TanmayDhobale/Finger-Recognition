@@ -1,4 +1,4 @@
-#Finger Recognition Web App
+##Finger Recognition Web App
 
 ![Finger Recognition Web App Demo](https://tanmaydhobale.github.io/Finger-Recognition/)
 
