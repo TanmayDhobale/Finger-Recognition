@@ -1,6 +1,6 @@
 ##Finger Recognition Web App
 
-![Finger Recognition Web App Demo](![Uploading image.png…]()
+![Finger Recognition Web App Demo](https://drive.google.com/file/d/1pitt5EH1cPNeOZWW8QKofXBW8ZQOVLmN/view?usp=sharing)
 )
 
 ## Introduction
