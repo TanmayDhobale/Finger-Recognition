@@ -1,7 +1,6 @@
-##Finger Recognition Web App
+# Finger Recognition Web App
 
-![Finger Recognition Web App Demo](https://drive.google.com/file/d/1pitt5EH1cPNeOZWW8QKofXBW8ZQOVLmN/view?usp=sharing)
-)
+![Finger Recognition Web App Demo](https://drive.google.com/uc?id=1pitt5EH1cPNeOZWW8QKofXBW8ZQOVLmN)
 
 ## Introduction
 
@@ -12,14 +11,11 @@ Welcome to the Finger Recognition Web App! This project enables users to interac
 - Finger detection and recognition.
 
 ## Demo
-[Live Demo](https://tanmaydhobale.github.io/Finger-Recognition/)
-
+Check out the [Live Demo](https://tanmaydhobale.github.io/Finger-Recognition/) to see the finger recognition in action.
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/finger-recognition-web-app.git
-
-   npm start 
+2. start server 
