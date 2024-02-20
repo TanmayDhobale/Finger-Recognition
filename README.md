@@ -1,6 +1,6 @@
 # Finger Recognition Web App
 
-![Finger Recognition Web App Demo](https://drive.google.com/uc?id=1pitt5EH1cPNeOZWW8QKofXBW8ZQOVLmN)
+![Finger Recognition Web App Demo] - https://github.com/TanmayDhobale/Finger-Recognition/assets/89733575/505b9063-e837-4835-9096-eaf826552e4b
 
 ## Introduction
 
